@@ -13,14 +13,14 @@ _The primary goals will be an easy access application that sorts wetsuits by ava
 
 ## Setup/Installation Requirements
 
-* _Access the GitHub repository by copying this (https://github.com/ELee-Wuollet13/Capstone.git) link into a console command to 'git clone [link]'_
+* _Access the GitHub repository by copying this (https://github.com/ELee-Wuollet13/Capstone-API.git) link into a console command to 'git clone [link]'_
 * _navigate into the program with the console and enter 'bash startup.bash' as a command, followed by 'rails s' which will build, seed and start the database._
 * _If the 'startup.bash' does not work, manually enter the commands 'bundle install, rails db:create, rake db:migrate, rake db:seed, rails s' which will start the Database._
 
 
 ## Known Bugs
 
-_As of submission this database is fully functional_
+_As of submission this program is fully functional_
 
 ## Support and contact details
 
